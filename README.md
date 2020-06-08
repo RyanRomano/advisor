@@ -1,3 +1,13 @@
+### Project Overview
+
+This is a simple client-side application built with create-react-app.
+This app pulls comments and posts from a given subreddit.
+
+TODO: Scan all post&comment text for word frequency, match against specified symbols.
+TODO: Writeout a list of top 10 highest frequency matches.
+TODO: Connect to Google Natural Language API 
+TODO: Run sentiment analysis on posts (titles, selftext) and comments for posts containing top-10 keywords
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
